@@ -1,0 +1,6 @@
+{
+  "name": "Doğru Yapı Katalog",
+  "description": "Doğru Yapı inşaat malzemeleri ve hırdavat ürünleri için kurumsal katalog ve tanıtım sitesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
