@@ -23,7 +23,7 @@ export const products: Product[] = [
     description: "Yüksek ısı ve ses yalıtımı sağlayan, estetik ve dayanıklı 70mm profil sistemli PVC pencere.",
     categoryId: "pimapen-pencere",
     categoryName: "Pimapen & Pencere Sistemleri",
-    image: "https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?auto=format&fit=crop&q=80&w=600&h=400",
+    image: "https://images.unsplash.com/photo-1520699049698-acd2fceb8d12?auto=format&fit=crop&q=80&w=600&h=400",
     specs: [
       { label: "Profil Genişliği", value: "70 mm" },
       { label: "Odacık Sayısı", value: "5 Odacıklı" },
@@ -102,7 +102,7 @@ export const products: Product[] = [
     description: "İç mekan kapıları için paslanmaz çelikten üretilmiş, uzun ömürlü ve şık rozetli kapı kolu takımı.",
     categoryId: "hirdavat",
     categoryName: "Hırdavat & Nalburiye",
-    image: "https://images.unsplash.com/photo-1558025213-43301a61c37b?auto=format&fit=crop&q=80&w=600&h=400",
+    image: "https://images.unsplash.com/photo-1577732297126-c2ba6eeefb19?auto=format&fit=crop&q=80&w=600&h=400",
     specs: [
       { label: "Malzeme", value: "304 Kalite Paslanmaz Çelik" },
       { label: "Tip", value: "Rozetli (Yuvarlak)" },

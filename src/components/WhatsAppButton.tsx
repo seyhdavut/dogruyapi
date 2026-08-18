@@ -6,7 +6,7 @@ interface WhatsAppButtonProps {
 }
 
 export default function WhatsAppButton({ productName, className = "" }: WhatsAppButtonProps) {
-  const phoneNumber = "905551234567"; // Replace with actual number
+  const phoneNumber = "905457757011"; // Yusuf İslam Tekin
   
   const message = productName 
     ? `Merhaba, ${productName} ürünü hakkında bilgi almak istiyorum.`

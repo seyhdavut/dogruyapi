@@ -23,7 +23,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-black text-slate-900 mb-2 uppercase tracking-widest text-sm">Merkez Ofis & Showroom</h3>
-                <p className="text-slate-600 font-medium">Sanayi Mahallesi, İnşaatçılar Sitesi No: 42 Merkez / Türkiye</p>
+                <p className="text-slate-600 font-medium">İpek Mahallesi Akdoğan Yolu Caddesi No : 145 Kızıltepe / Mardin</p>
               </div>
             </div>
 
@@ -33,8 +33,8 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-black text-slate-900 mb-2 uppercase tracking-widest text-sm">Telefon & WhatsApp</h3>
-                <p className="text-slate-600 font-medium mb-1">+90 (555) 123 45 67</p>
-                <p className="text-slate-600 font-medium">+90 (212) 555 45 67</p>
+                <p className="text-slate-600 font-medium mb-1">Yetkili: Yusuf İslam Tekin</p>
+                <p className="text-slate-600 font-medium">+90 545 775 70 11</p>
               </div>
             </div>
 
@@ -73,7 +73,7 @@ export default function Contact() {
                 <div className="flex flex-col sm:flex-row gap-4">
                   <WhatsAppButton className="w-full sm:w-auto" />
                   <a 
-                    href="tel:+905551234567" 
+                    href="tel:+905457757011" 
                     className="w-full sm:w-auto inline-flex items-center justify-center gap-3 border-2 border-slate-700 hover:border-amber-500 text-white font-bold uppercase tracking-widest px-6 py-4 transition-colors text-sm"
                   >
                     <Phone className="w-5 h-5" />

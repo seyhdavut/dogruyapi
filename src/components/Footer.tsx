@@ -34,7 +34,7 @@ export default function Footer() {
                 <p className="text-[10px] text-slate-400 uppercase font-bold tracking-tighter mb-2">Merkez Ofis</p>
                 <div className="flex items-start text-sm text-slate-600 font-medium">
                   <MapPin className="h-4 w-4 text-amber-500 mr-2 shrink-0 mt-0.5" />
-                  <span>Sanayi Mahallesi, İnşaatçılar Sitesi No: 42<br />Merkez / Türkiye</span>
+                  <span>İpek Mahallesi Akdoğan Yolu Caddesi No : 145<br />Kızıltepe / Mardin</span>
                 </div>
               </div>
               <div className="space-y-4">
@@ -42,7 +42,7 @@ export default function Footer() {
                   <p className="text-[10px] text-slate-400 uppercase font-bold tracking-tighter mb-2">Telefon</p>
                   <div className="flex items-center text-sm font-bold text-slate-900">
                     <Phone className="h-4 w-4 text-amber-500 mr-2 shrink-0" />
-                    <a href="tel:+905551234567" className="hover:text-amber-500 transition-colors">+90 (555) 123 45 67</a>
+                    <a href="tel:+905457757011" className="hover:text-amber-500 transition-colors">+90 545 775 70 11</a>
                   </div>
                 </div>
                 <div>
@@ -58,7 +58,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-100 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center text-xs font-bold text-slate-400 uppercase tracking-widest">
-          <p>&copy; {new Date().getFullYear()} Doğru Yapı İnşaat Malzemeleri. Tüm hakları saklıdır.</p>
+          <p>&copy; {new Date().getFullYear()} DOĞRU YAPI İnşaat ve Yapı Malzemeleri. Tüm hakları saklıdır.</p>
         </div>
       </div>
     </footer>

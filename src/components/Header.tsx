@@ -54,7 +54,7 @@ export default function Header() {
           {/* Customer Line */}
           <div className="hidden lg:flex items-center gap-4">
             <span className="text-xs text-slate-400 uppercase tracking-widest">Müşteri Hattı:</span>
-            <span className="font-bold text-amber-500 tracking-wider">+90 (555) 123 45 67</span>
+            <span className="font-bold text-amber-500 tracking-wider">+90 545 775 70 11</span>
           </div>
 
           {/* Mobile menu button */}

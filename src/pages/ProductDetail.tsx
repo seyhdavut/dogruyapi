@@ -69,7 +69,7 @@ export default function ProductDetail() {
               <div className="flex flex-col sm:flex-row gap-4 mt-auto pt-8 border-t-2 border-slate-100">
                 <WhatsAppButton productName={product.title} className="flex-1" />
                 <a 
-                  href="tel:+905551234567" 
+                  href="tel:+905457757011" 
                   className="flex-1 inline-flex items-center justify-center gap-3 border-2 border-slate-900 text-slate-900 hover:bg-slate-900 hover:text-white font-bold uppercase tracking-widest text-sm px-6 py-4 transition-colors"
                 >
                   <Phone className="w-5 h-5" />
