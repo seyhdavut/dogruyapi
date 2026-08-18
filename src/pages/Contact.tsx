@@ -23,7 +23,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-black text-slate-900 mb-2 uppercase tracking-widest text-sm">Merkez Ofis & Showroom</h3>
-                <p className="text-slate-600 font-medium">İpek Mahallesi Akdoğan Yolu Caddesi No : 145 Kızıltepe / Mardin</p>
+                <p className="text-slate-600 font-medium">İpek Mahallesi Kızıltepe / Mardin</p>
               </div>
             </div>
 
