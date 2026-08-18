@@ -33,7 +33,7 @@ export default function Contact() {
               </div>
               <div>
                 <h3 className="font-black text-slate-900 mb-2 uppercase tracking-widest text-sm">Telefon & WhatsApp</h3>
-                <p className="text-slate-600 font-medium mb-1">YMüşteri Temsilcisi: Yusuf İslam Tekin</p>
+                <p className="text-slate-600 font-medium mb-1">Müşteri Temsilcisi: Yusuf İslam Tekin</p>
                 <p className="text-slate-600 font-medium">+90 545 775 70 11</p>
               </div>
             </div>
